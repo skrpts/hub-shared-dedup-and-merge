@@ -1,9 +1,9 @@
 # --- Identity ---
-id: "b14c69fa-1055-4b2f-86cf-4100e8819d23"
+id: "6190b836-2019-4432-8a3e-95c59160aacb"
 name: "dedup-and-merge"
 display_name: "Dedup and Merge"
 description: "Identifies duplicate or overlapping items in a collection and merges them into canonical entries"
-version: "1.0.0"
+version: "1.0.1"
 engine: ">=0.1.0"
 author:
   name: "skrptiq"
